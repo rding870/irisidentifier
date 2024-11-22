@@ -27,7 +27,7 @@ To try it out on your own:
    ```
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook logistic_regression_iris.ipynb
+   jupyter notebook main.ipynb
    ```
 
 ---
